@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SubGuard</string>
+    <string name="total_monthly">Total Mensual</string>
+    <string name="next_payment_in">Próximo pago en %1$d días</string>
+    <string name="trial_ends_in">La prueba termina en %1$d días</string>
+    <string name="add_subscription">Añadir Suscripción</string>
+    <string name="edit_subscription">Editar Suscripción</string>
+    <string name="name">Nombre</string>
+    <string name="price">Precio</string>
+    <string name="currency">Moneda</string>
+    <string name="billing_cycle">Ciclo de Facturación</string>
+    <string name="start_date">Fecha de Inicio</string>
+    <string name="free_trial">Prueba Gratuita</string>
+    <string name="trial_end_date">Fecha de Fin de Prueba</string>
+    <string name="notification_setting">Configuración de Notificación</string>
+    <string name="save">Guardar</string>
+    <string name="delete">Eliminar</string>
+    <string name="settings">Ajustes</string>
+    <string name="language">Idioma</string>
+    <string name="default_currency">Moneda Predeterminada</string>
+    <string name="weekly">Semanal</string>
+    <string name="monthly">Mensual</string>
+    <string name="yearly">Anual</string>
+    <string name="notify_1_day">1 día antes</string>
+    <string name="notify_3_days">3 días antes</string>
+    <string name="select_date">Seleccionar Fecha</string>
+</resources>
